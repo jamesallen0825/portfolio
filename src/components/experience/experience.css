@@ -10,7 +10,7 @@
     border-radius: 2rem;
     border: 1px solid transparent;
     transition: var(--transition);
-    width: 60%;
+    width: 80%;
     margin: 0 auto;
 }
 
@@ -27,8 +27,8 @@
 }
 
 .experience__content {
-    display: grid;
-    grid-template-columns: 1fr 1fr;
+    /* display: grid;
+    grid-template-columns: 1fr 1fr; */
     row-gap: 2rem;
 }
 

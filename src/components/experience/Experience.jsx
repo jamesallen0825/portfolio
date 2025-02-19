@@ -9,35 +9,35 @@ const Experience = () => {
       <h2>Skills</h2>
       <div className="container experience__container">
         <div className="experience__frontend">
-          <h3>Front-end Development</h3>
+          <h3>Fullstack Developer</h3>
           <div className="experience__content">
           <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>HTML / CSS</h4>
+              <h4>Go, Python, JavaScript, TypeScript, Php, Java, C++</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>JavaScript</h4>
+              <h4>Gin, Ruby on Rails, Django, Node.js, React, Next.js, Angular, Vue.js, Nuxt.js, Laravel, Spring Boot</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>SASS / SCSS</h4>
+              <h4>PostgreSQL, MongoDB, MySQL, Redis</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Bootstrap, Tailwind</h4>
+              <h4>AWS, Azure</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>React , Vite JS, Next Js</h4>
+              <h4>Docker, Kubernetes, Jenkins, Git, Ansible</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Typescript</h4>
+              <h4>Jest, JUnit, Cypress</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />
-              <h4>Firebase</h4>
+              <h4>RESTful APIs, SOAP</h4>
             </article>
             <article className="experience__details">
               <BsFillPatchCheckFill className="experience__details-icon" />

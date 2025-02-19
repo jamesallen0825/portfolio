@@ -18,8 +18,8 @@ const Portfolio = () => {
       description:
         "An educational website is a huge interactive platform to present various information for people.",
       technologies: "Html | CSS | Javascript | React Js",
-      link: "https://educational-website-reactjs.netlify.app/",
-      github: "https://github.com/Rasif-Taghizada/Educational-Website-ReactJs",
+      link: "",
+      github: "",
     },
     {
       id: 2,
@@ -28,17 +28,18 @@ const Portfolio = () => {
       description:
         "A personal website assembled for a lawyer. Firebase is the basis of the website assembled as a full stack",
       technologies: "HTML | CSS | JavaScript | Express Js | Firebase",
-      link: "https://fh-huquq-com.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/fh-huquq.com",
+      link: "",
+      github: "",
     },
     {
       id: 3,
       title: "Hospital reservation form",
       img: IMG2,
-      description: "A booking website for doctor's appointments at the hospital. The website is mainly functionally developed with JavaScript",
+      description:
+        "A booking website for doctor's appointments at the hospital. The website is mainly functionally developed with JavaScript",
       technologies: "HTML | CSS | JavaScript",
-      link: "https://fs-code-task-two.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/FS-Code-Task",
+      link: "",
+      github: "",
     },
     {
       id: 4,
@@ -47,8 +48,8 @@ const Portfolio = () => {
       description:
         "A dedicated, standalone web page built for specific campaigns and target audiences.",
       technologies: "Html | CSS | JavaScript | Next Js",
-      link: "https://alpha-agency-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Alpha-Agency-Project",
+      link: "",
+      github: "",
     },
     {
       id: 5,
@@ -57,8 +58,8 @@ const Portfolio = () => {
       description:
         "For when you need a fast funny joke, here are some short jokes to get anyone giggling.",
       technologies: "Html | Styled-components | Typescript",
-      link: "https://jokes-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Joke-App",
+      link: "",
+      github: "",
     },
     {
       id: 6,
@@ -67,8 +68,8 @@ const Portfolio = () => {
       description:
         "Real-world group project which is still in progress and will provide educational platform for future young developers",
       technologies: "Html | Scss | Javascript",
-      link: "https://fs-poster-project.vercel.app/",
-      github: "https://github.com/Rasif-Taghizada/Fs-Poster-Project",
+      link: "",
+      github: "",
     },
   ];
 
